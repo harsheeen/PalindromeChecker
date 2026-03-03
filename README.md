@@ -1,17 +1,31 @@
-/** 
- * =========================================
- *MAIN CLASS- UseCaseOne - PalindromeChecker
- *===========================================
- *
- *UseCase 4 : APPLICATION : Logic to check whether the hardcoded string is palindrome or not!
- *
- *Description:
- *----Hardcode the input string
- *----Convert the string to convert char array
- *---- two pointer (start - pointing to start of the array , end -> last element of the array) and compare them
- *----If yes- print "Is it Palindrome-True!"
- *----If no- print "Is it Palindrome-False!"
- *
- *@author Harsheen Kaur
- *@version 4.0
- * */
+# PalindromeChecker
+
+## 📌 Main Class
+**UseCaseOne – PalindromeChecker**
+
+---
+
+## 🎯 Use Case 4
+**Application:** Logic to check whether the hardcoded string is a palindrome.
+
+---
+
+## 📝 Description
+This program demonstrates a simple palindrome check using Java:
+
+- Hardcode the input string  
+- Convert the string into a character array  
+- Use two pointers:  
+  - **start** → points to the first character  
+  - **end** → points to the last character  
+- Compare characters at `start` and `end` while moving inward  
+- If all pairs match → print **"Is it Palindrome – True!"**  
+- If any pair does not match → print **"Is it Palindrome – False!"**
+
+---
+
+## 👩‍💻 Author
+**Harsheen Kaur**
+
+## 🔖 Version
+**4.0**
