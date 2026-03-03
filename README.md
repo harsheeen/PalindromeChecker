@@ -4,7 +4,7 @@
 
 ---
 
-## 📝 Description
+## Description
 This program demonstrates a simple palindrome check using Java:
 
 - Hardcode the input string  
