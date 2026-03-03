@@ -8,10 +8,10 @@
 This program demonstrates a simple palindrome check using Java:
 
  *Description:
-- -Hardcoded the input string
-- --Reverse the string and compare the input with reversed one
-- --If yes- print "Is it Palindrome-True!"
-- ---If no- print "Is it Palindrome-False!"
+- Hardcoded the input string
+- Reverse the string and compare the input with reversed one
+- If yes- print "Is it Palindrome-True!"
+- If no- print "Is it Palindrome-False!"
 ---
 
 
