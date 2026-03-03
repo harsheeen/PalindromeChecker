@@ -1,10 +1,5 @@
 # PalindromeChecker
 
-## 📌 Main Class
-**UseCaseOne – PalindromeChecker**
-
----
-
 ## 🎯 Use Case 4
 **Application:** Logic to check whether the hardcoded string is a palindrome.
 
