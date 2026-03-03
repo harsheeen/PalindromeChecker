@@ -1,11 +1,11 @@
 # PalindromeChecker
 
-## 🎯 Use Case 4
+## Use Case 4
 **Application:** Logic to check whether the hardcoded string is a palindrome.
 
 ---
 
-## 📝 Description
+## Description
 This program demonstrates a simple palindrome check using Java:
 
 - Hardcode the input string  
@@ -19,8 +19,4 @@ This program demonstrates a simple palindrome check using Java:
 
 ---
 
-## 👩‍💻 Author
-**Harsheen Kaur**
 
-## 🔖 Version
-**4.0**
