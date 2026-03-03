@@ -1,7 +1,7 @@
 package com.PalindromeChecker;
 /** 
  * =========================================
- *MAIN CLASS- UseCaseOne - PalindromeChecker
+ *MAIN CLASS- UseCaseThree - PalindromeChecker
  *===========================================
  *
  *UseCase 3 : APPLICATION : Reverse the string and compare the input with reversed one
